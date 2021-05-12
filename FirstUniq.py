@@ -12,4 +12,4 @@ print("-1")
 # reduce running time :add in set and if not pres already check for first time 
 # if pres in set no need to check bcoz there is no possib that the count is 1
 # simply s.count(i) will give res but this red time complexity
-        
+       
