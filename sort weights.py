@@ -17,3 +17,7 @@ for i in l:
 ki.sort(key=lambda ki:ki[-1])
 for i in ki:
     print(*i)
+
+    
+# https://ide.geeksforgeeks.org/BIRzBskGYR
+# http://kiruthikamani.blogspot.com/2016/06/sorting-array-with-weight-zoho.html
