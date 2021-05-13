@@ -18,3 +18,10 @@
 #         Explanation: 1 6 2 9 7 8 11 15 19 34
 #         1+6=7, 6+2=8, 2+9=11 then 7+8=15, 8+11=19 then 15+19=34.
 # Then 3+4=7.
+
+
+
+
+
+
+# https://ide.geeksforgeeks.org/trVLGnoFks
