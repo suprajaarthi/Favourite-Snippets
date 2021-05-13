@@ -20,6 +20,31 @@
 # Then 3+4=7.
 
 
+n=int(input())
+l=list(map(int,input().split()))
+a=float('inf')
+k=[]
+while(len(l)>1):
+    k=[]
+    for i in range(len(l)-1):
+        k.append(l[i]+l[i+1])
+    # print(k)
+    l=k
+    
+for i in l: 
+    l=str(i)
+print(l)
+while len(l)>1:
+    s=0
+    for i in l:
+        s+=int(i)
+    l=str(s)
+    
+print(l)
+
+
+
+
 
 
 
