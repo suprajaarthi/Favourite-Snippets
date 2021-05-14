@@ -10,7 +10,6 @@ for val in range(1, n+1):
         pointer += 1
     else:
         res += ["Push", "Pop"]
-
 print(res)
 
 
@@ -19,6 +18,7 @@ print(res)
 # push 2 pop 2 
 # push 3 
 # => [ push, push , pop, push]
+
 
 # https://ide.geeksforgeeks.org/MHcICyNWb1
   
