@@ -5,10 +5,7 @@ l=[list(map(int,input().split())) for i in  range(n)]
 l1=sorted(l,key =lambda x:(x[0]))
 l2=sorted(l1,key =lambda x:(x[1]))
 l3=sorted(l2,key =lambda x:(x[-1]))
-
-
 print(l3)
-
 
 # ip: {{20,  1, 2014},
 #                   {25,  3, 2010},
