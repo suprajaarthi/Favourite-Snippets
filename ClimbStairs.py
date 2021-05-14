@@ -1,4 +1,4 @@
-https://ide.geeksforgeeks.org/HX3XHuUwSp
+# https://ide.geeksforgeeks.org/HX3XHuUwSp
  
 n=int(input())
 if n < 3: 
