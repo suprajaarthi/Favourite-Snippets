@@ -25,6 +25,6 @@ print(str(resre)+'+'+str(resim)+'i')
 # Explanation: (1 - i) * (1 - i) = 1 + i2 - 2 * i = -2i, and you need convert it to the form of 0+-2i.
   
   
-  <img src="https://www.mathsisfun.com/algebra/images/foil-complex.svg">
+# https://www.mathsisfun.com/algebra/images/foil-complex.svg
   
   
