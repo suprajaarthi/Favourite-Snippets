@@ -12,4 +12,8 @@ while i<len(nums)-1 :
 
 print(len(nums))
 print(nums)
+
+
+# op : [1, 2, 3, 4, 5, 6]
+
  
