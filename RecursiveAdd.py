@@ -1,4 +1,4 @@
-
+https://ide.geeksforgeeks.org/kCaxazM61e
 
 n=int(input())
 l=list(map(int,input().split()))
@@ -23,7 +23,8 @@ while len(l)>1:
 print(l)
 
 # Explanation 
-Input: 5 1 2 3 4 5
+Input: 5
+       1 2 3 4 5
 Output: 3 
   
   Explanation :
