@@ -1,5 +1,6 @@
-# https://ide.geeksforgeeks.org/9yZ01BcmF6
+https://ide.geeksforgeeks.org/9yZ01BcmF6
 
+#   Sort an array such that 1st element is the largest & 2nd is the smallest
 l=list(map(int,input().split()))
 n=len(l)
 l=sorted(l)
