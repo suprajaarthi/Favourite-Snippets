@@ -1,4 +1,4 @@
-# https://ide.geeksforgeeks.org/knfsQzfInC
+https://ide.geeksforgeeks.org/knfsQzfInC
 
 #Your code below
 n=int(input())
