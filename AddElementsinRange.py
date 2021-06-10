@@ -1,4 +1,4 @@
-# https://ide.geeksforgeeks.org/kYdQE5sLwq
+https://ide.geeksforgeeks.org/kYdQE5sLwq
 
 lst=list(map(int,input().split()))
 ln = len(lst)
