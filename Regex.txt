@@ -1,0 +1,30 @@
+Regular Expressions	Description
+foo.*	# Matches any string starting with foo
+\d*	# Match any number decimal digits
+[a-zA-Z]+	# Match a sequence of one or more letters
+text	Match literal text
+.	  Match any character except newline
+^	  Match the start of a string
+$	  Match the end of a string
+* 	Match 0 or more repetitions
++ 	Match 1 or more repetitions
+?	  Match 0 or 1 repetition
++?  Match 1 or more, as few as possible
+*?	Match 0 or more, as few as possible
+{m,n}	  Match m to n repetitions
+{m,n}?	Match m to n repetitions, few as possible
+[...]	  Match a set of characters
+[^...]	Match characters, not in a set
+A | B 	Match A or B (...) Match regex in parenthesis as a group
+\   number	Matches text matched by the previous group
+\A	Matches start of the string
+\b	Matches empty string at beginning or end of the word
+\B	Matches empty string not at begin or end of the word
+\d	Matches any decimal digit
+\D	Matches any non-digit
+\s	Matches any whitespace
+\S	Matches any non-whitespace
+\w	Matches any alphanumeric character
+\W	Matches characters not in
+\w \Z	Match at end of the string.
+\\	Literal backslash
