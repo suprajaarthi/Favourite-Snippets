@@ -1,3 +1,5 @@
+https://ide.geeksforgeeks.org/MHcICyNWb1
+
 target=list(map(int,input().split()))
 n=int(input())
 res, pointer = [], 0
@@ -20,7 +22,6 @@ print(res)
 # => [ push, push , pop, push]
 
 
-# https://ide.geeksforgeeks.org/MHcICyNWb1
   
   
   
