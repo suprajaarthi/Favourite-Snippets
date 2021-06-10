@@ -1,9 +1,6 @@
-# Input: a = 101, b = 102 
-# Output: YES 
-# 101 + 102 = 203. 
-# After removing all zeroes from a, b and c, a = 11, b = 12 and c = 23 
-# Now check if a + b = c i.e. 11 + 12 = 23 . So print Yes.
-
+https://ide.geeksforgeeks.org/vfTgzXM1TQ
+    
+    
 # Function to remove zeroes
 def removeZero(n):
     res = 0
@@ -31,4 +28,9 @@ else:
     print("No")
  
 
-# https://ide.geeksforgeeks.org/vfTgzXM1TQ
+
+# Input: a = 101, b = 102 
+# Output: YES 
+# 101 + 102 = 203. 
+# After removing all zeroes from a, b and c, a = 11, b = 12 and c = 23 
+# Now check if a + b = c i.e. 11 + 12 = 23 . So print Yes.
