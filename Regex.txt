@@ -1,7 +1,8 @@
 Regular Expressions	Description
 foo.*	# Matches any string starting with foo
 \d*	# Match any number decimal digits
-[a-zA-Z]+	# Match a sequence of one or more letters
+[a-zA-Z]+
+# Match a sequence of one or more letters
 text	  Match literal text
 .	      Match any character except newline
 ^	      Match the start of a string
