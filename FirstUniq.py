@@ -1,4 +1,6 @@
-?Return index of 1st unique char in string
+
+# Return index of 1st unique char in string
+
 s=input().strip()
 visited=set()
 for i in range(len(s)):
