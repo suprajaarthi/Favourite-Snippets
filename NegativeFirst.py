@@ -1,4 +1,4 @@
-# https://ide.geeksforgeeks.org/RHjs4xWlWQ
+https://ide.geeksforgeeks.org/RHjs4xWlWQ
 
 def rearrange(arr, n ) :
     j = 0
