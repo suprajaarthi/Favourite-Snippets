@@ -2,15 +2,15 @@ Regular Expressions	Description
 foo.*	# Matches any string starting with foo
 \d*	# Match any number decimal digits
 [a-zA-Z]+	# Match a sequence of one or more letters
-text	Match literal text
-.	  Match any character except newline
-^	  Match the start of a string
-$	  Match the end of a string
-* 	Match 0 or more repetitions
-+ 	Match 1 or more repetitions
-?	  Match 0 or 1 repetition
-+?  Match 1 or more, as few as possible
-*?	Match 0 or more, as few as possible
+text	  Match literal text
+.	      Match any character except newline
+^	      Match the start of a string
+$	      Match the end of a string
+* 	    Match 0 or more repetitions
++ 	    Match 1 or more repetitions
+?	      Match 0 or 1 repetition
++?      Match 1 or more, as few as possible
+*?	    Match 0 or more, as few as possible
 {m,n}	  Match m to n repetitions
 {m,n}?	Match m to n repetitions, few as possible
 [...]	  Match a set of characters
