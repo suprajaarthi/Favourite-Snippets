@@ -1,4 +1,4 @@
-# https://ide.geeksforgeeks.org/49xt8oTYII
+https://ide.geeksforgeeks.org/49xt8oTYII
 
 r,c=map(int,input().split())
 mat=[list(map(int,input().split())) for i in range(r)]
@@ -7,7 +7,7 @@ res=sorted(mat,key=lambda row:row[k])
 for i in res:
     print(*i)
 
-# https://www.hackerrank.com/contests/pythonist/challenges/python-sort-sort
+https://www.hackerrank.com/contests/pythonist/challenges/python-sort-sort
     
 # ip:
   
