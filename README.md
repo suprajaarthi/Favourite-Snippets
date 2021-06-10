@@ -1,2 +1,2 @@
-# Practice-programs <img src="https://images-na.ssl-images-amazon.com/images/I/517UcBTJe-L._AC_SL1000_.jpg">
+# Practice-programs <img src="http://evomics.org/wp-content/uploads/2011/09/python-logo-glassy.png">
 My collection of Python programs I've been practicing .
