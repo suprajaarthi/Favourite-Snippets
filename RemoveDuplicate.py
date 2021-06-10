@@ -1,4 +1,4 @@
-# https://ide.geeksforgeeks.org/cBrl72r7IP
+https://ide.geeksforgeeks.org/cBrl72r7IP
 
 # nums=list(map(int,input().split()))
 nums=[1,5,1,2,3,5,3,4,6,4]
