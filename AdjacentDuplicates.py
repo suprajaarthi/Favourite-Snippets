@@ -1,3 +1,6 @@
+https://ide.geeksforgeeks.org/TF50SQdfHL 
+    
+    
 S=input().strip()
 a=['']
 for i in (S):
@@ -9,3 +12,10 @@ for i in (S):
 
 # print(a)
 print(''.join(a))
+
+
+# IP : ammar
+#     After removing mm as the adjacent characters are same
+#     ammar => aar
+#     aar => r
+# OP :   r
