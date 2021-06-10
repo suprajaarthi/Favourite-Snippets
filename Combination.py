@@ -1,5 +1,7 @@
-# Syntax=>
-# combinations(iterator, r)
+
+https://ide.geeksforgeeks.org/erW2iIGHYW 
+        
+# Syntax => combinations(iterator, r)
 
 from itertools import combinations
 s=input().strip()
@@ -19,4 +21,4 @@ else:
     print(c)
     
     
-#     https://ide.geeksforgeeks.org/erW2iIGHYW
+   
