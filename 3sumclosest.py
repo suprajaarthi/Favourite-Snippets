@@ -1,3 +1,7 @@
+https://ide.geeksforgeeks.org/mLHid7ig3o
+    
+https://leetcode.com/problems/3sum-closest/
+
 nums=list(map(int,input().split()))
 target=int(input())
 nums.sort()
@@ -26,5 +30,3 @@ for i in range(len(nums)-2):
 
 print(ans)
 
-# https://ide.geeksforgeeks.org/mLHid7ig3o
-# https://leetcode.com/problems/3sum-closest/
