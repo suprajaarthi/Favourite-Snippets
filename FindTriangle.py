@@ -1,4 +1,4 @@
-# https://ide.geeksforgeeks.org/a2m9B6kghb
+https://ide.geeksforgeeks.org/a2m9B6kghb
 
 def triangles(b):
 	n=len(b)
