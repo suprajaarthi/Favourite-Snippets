@@ -14,6 +14,7 @@ print("yes")
 
 # Check if all the elements in a k*k matrix are equal
 # ip:
+
 # 4
 # 10 10 20 20
 # 10 10 20 20
@@ -22,3 +23,5 @@ print("yes")
 # k=>2
 # op:
 #   Yes
+
+
