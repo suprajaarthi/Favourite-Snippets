@@ -9,20 +9,20 @@ for i in res:
 
 https://www.hackerrank.com/contests/pythonist/challenges/python-sort-sort
     
-# ip:
+ip:
   
-# 5 3
-# 10 2 5
-# 7 1 0
-# 9 9 9
-# 1 23 12
-# 6 5 9
-# 1
+5 3
+10 2 5
+7 1 0
+9 9 9
+1 23 12
+6 5 9
+1
 
-# op: 
-# 7 1 0
-# 10 2 5
-# 6 5 9
-# 9 9 9
-# 1 23 12
+op: 
+7 1 0
+10 2 5
+6 5 9
+9 9 9
+1 23 12
   
