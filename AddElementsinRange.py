@@ -10,6 +10,8 @@ if (ln % 2) == 0:
 else:
     print("bad match")
 
+# IP : 1 2 4 7  
+# OP : [3, 11]
+    
+
  
- 
-  
