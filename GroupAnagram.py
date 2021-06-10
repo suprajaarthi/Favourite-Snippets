@@ -24,3 +24,7 @@ print(list(anag.values()))
 #   ["nat","tan"],
 #   ["bat"]
 # ]
+
+
+# {'aet': ['eat', 'ate', 'tea'], 'ant': ['nat', 'tan'], 'acn': ['acn', 'can'], 'gikn': ['king']}
+# [['eat', 'ate', 'tea'], ['nat', 'tan'], ['acn', 'can'], ['king']]
