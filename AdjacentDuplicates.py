@@ -13,6 +13,14 @@ for i in (S):
 # print(a)
 print(''.join(a))
 
+'amma'
+a=[];   i='a'
+a=[a];  i='m'
+a=[a,m];i='m'
+Here i=a[-1] => a.pop() a=[a]
+a=['a'], i ='a'
+a.pop()
+Returns empty string 
 
 # IP : ammar
 #     After removing mm as the adjacent characters are same
