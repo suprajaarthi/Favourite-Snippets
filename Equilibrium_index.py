@@ -1,3 +1,6 @@
+
+https://ide.geeksforgeeks.org/v3rGdL6b7a
+
 l=list(map(int,input().split()))
 ls,rs=0,0
 n=len(l)
@@ -12,5 +15,3 @@ for i in range(n):
     if(ls==rs):
         print(i)
 print("-1")
-
-# https://ide.geeksforgeeks.org/v3rGdL6b7a
