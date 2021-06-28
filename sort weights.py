@@ -1,6 +1,5 @@
-#Zoho program 
 #Sort weights based on conditions
-
+# Zoho
 import math
 n=int(input()) ;ki=[]
 l=list(map(int,input().split()))
@@ -17,6 +16,7 @@ for i in l:
 ki.sort(key=lambda ki:ki[-1])
 for i in ki:
     print(*i)
+    
 
     
 # https://ide.geeksforgeeks.org/BIRzBskGYR
