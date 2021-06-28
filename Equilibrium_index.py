@@ -1,4 +1,4 @@
-
+Sum of elements in Left == Sum of elem in Rght
 https://ide.geeksforgeeks.org/v3rGdL6b7a
 
 l=list(map(int,input().split()))
