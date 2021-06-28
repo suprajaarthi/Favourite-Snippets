@@ -1,4 +1,6 @@
-# https://ide.geeksforgeeks.org/aekdGyPch2
+https://ide.geeksforgeeks.org/aekdGyPch2
+    
+    
 from itertools import permutations 
 a = "GeEK"
 
